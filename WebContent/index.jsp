@@ -12,7 +12,7 @@
 <a href="https://blog.naver.com/code-ing/221668796507" target="_blank"><img src="./img/coding.jpg"width="270"height="270"></a>
 <img src="./img/updowngame.png"width="270"height="270"><br>
 <br>
-<button onclick="document.location='http://jcoding.kr'"><h1>표만들기</h1>
+<button onclick="document.location='./table.jsp'"><h1>표만들기</h1>
 </button>
 <br>
 <h1><a href="http://jcoding.kr" target="_blank">전주코딩학원</a></h1>
